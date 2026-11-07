@@ -1,5 +1,5 @@
 # Customer Churn Predictor
-
+Project App Url: https://customer-churn-predictiongit-jaynzkr8nhugcwgqxxh4fq.streamlit.app/
 A portfolio project that explores telecom customer churn, trains a recall-focused machine-learning pipeline, and provides a Streamlit interface for individual customer predictions.
 
 ## Project files
